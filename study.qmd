@@ -13,7 +13,7 @@ I am hoping that these notes would be helpful!
 
 Starting from foundational topics like analysis and algebra, we cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.
 
-* **[Mathematical Foundations:](notes/math-priliminary/fom.pdf)** *Basic Logic, Proofs, Sets and Numbers. Prerequisite for every other course.*
+* **[Mathematical Foundations:](notes/mathe-fond/fom.pdf)** *Basic Logic, Proofs, Sets and Numbers. Prerequisite for every other course.*
 * **[Analysis I:](notes/ana1/ana1.pdf)** *Topology and Calculus of Functions of Single Real Variable.*
 * **[Linear Algebra I:](notes/la1/la1.pdf)** *Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.*
 
