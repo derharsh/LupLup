@@ -6,7 +6,7 @@ categories: [Research]
 image: "image.jpg"
 comments:
     giscus: 
-      repo: derharsh/LupLup
+      repo: derharsh/personal_blog
 ---
 
 Continuing the discussion of QFT, i recently developed deeper interests into **[Algebraic Quantum Field Theory (AQFT)](https://ncatlab.org/nlab/show/AQFT)**. It is a non-perturbative formalisation of QFT that axiomatizes the assignment of algebras of observables to patches of parameter space (spacetime, worldvolume). It’s roughly the “Heisenberg picture” of quantum mechanics used in introductory textbooks.

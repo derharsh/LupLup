@@ -6,7 +6,7 @@ categories: [Research]
 image: "image.jpg"
 comments:
     giscus: 
-      repo: derharsh/LupLup
+      repo: derharsh/personal_blog
 ---
 
 In my [previous post](/posts/first-post/index.qmd) I mentioned my interest in [constructive QFT](https://ncatlab.org/nlab/show/constructive+quantum+field+theory), gauge Theory and HoTT. I’ll try to explain why I’m interested in them!

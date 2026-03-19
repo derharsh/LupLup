@@ -6,7 +6,7 @@ categories: [General]
 image: "image.jpg"
 comments:
     giscus: 
-      repo: derharsh/LupLup
+      repo: derharsh/personal_blog
 ---
 
 Today, i'm starting a blog page as a personal space to share my lecture notes, research ideas and codes. Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here!

@@ -19,7 +19,7 @@ website:
         href: https://github.com/derharsh/personal_blog
 comments: 
     giscus: 
-        repo: derharsh/LupLup
+        repo: derharsh/personal_blog
         repo-id: R_kgDOJYJ4TA
         category: General
         category-id: DIC_kwDOQzOiLM4C0k3E
