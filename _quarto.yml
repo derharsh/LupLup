@@ -3,7 +3,7 @@ project:
 
 website:
   description: "My Personal Blog"
-  site-url: https://derharsh.github.io/harshprajapati/
+  site-url: https://derharsh.github.io/personal_blog/
   repo-url: https://github.com/derharsh/personal_blog
   title: "Harsh Prajapati"
   navbar:
